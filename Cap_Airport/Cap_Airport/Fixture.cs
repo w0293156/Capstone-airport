@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Cap_Airport
 {
-    class Gate
+    public class Fixture
     {
+        private Position pos;
+     
     }
 }
